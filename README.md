@@ -2,6 +2,8 @@
 
 This is a simple implementation of the classic Connect4 game using Python and the Pygame library. Connect4 is a two-player connection game in which the players take turns dropping colored discs from the top into a vertically suspended grid. The objective of the game is to connect four of one's own discs of the same color consecutively in a row, column, or diagonal.
 
+<img src="https://github.com/ThibautMilville/Connect4_Game/assets/87717065/bc7a9791-9b53-4343-8a9c-2cd768bef563" alt="Connect4" />
+
 ## How to Play
 
 - Run the Game:
