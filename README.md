@@ -7,7 +7,7 @@ This is a simple implementation of the classic Connect4 game using Python and th
 - Run the Game:
   - Make sure you have Python installed on your machine.
   - Install the Pygame library by running `pip install pygame`.
-  - Run the game script: `python connect4.py`.
+  - Run the game script: `python index.py`.
 
 - Game Interface:
   - The game window displays a grid of 7 columns and 6 rows.
@@ -31,7 +31,7 @@ This is a simple implementation of the classic Connect4 game using Python and th
 
 ## Code Structure
 
-- The game logic is implemented in `connect4.py`.
+- The game logic is implemented in `index.py`.
 - The game board is represented as a 2D list (`board`), and Pygame is used for the graphical interface.
 
 ## Dependencies
@@ -44,4 +44,4 @@ This is a simple implementation of the classic Connect4 game using Python and th
 - This Connect4 implementation was created using the Pygame library.
 - Pygame: [https://www.pygame.org/](https://www.pygame.org/)
 
-This game was fully developed with ChatGPT in 5 minutes as an experimentation.
+This game was fully developed using ChatGPT in just 5 minutes as an experiment, along with its README file.
